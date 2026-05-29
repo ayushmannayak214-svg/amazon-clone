@@ -91,6 +91,11 @@ option {
     text-align: center;
     font-size: 1rem;
 }
+.All:hover {
+    background-color: rgba(190, 189, 189, 0.7);
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
 .search-bar {
     width: 50rem;
     height: 2.5rem;
@@ -107,6 +112,11 @@ option {
     justify-content: center;
     border-bottom-right-radius: 0.25rem;
     border-top-right-radius: 0.25rem;
+}
+.search-icon:hover {
+    background-color: rgb(255, 187, 0, 0.7);
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
 }
 
 /* box3*/
